@@ -1,7 +1,5 @@
-# Technical Portfolio
+# Ashvin's Computer Science Portfolio
 
-This repository hosts a technical portfolio built using [TechFolio](http://techfolios.github.io). 
-
-See the quick start guide for instructions on how to tailor the template to your own needs.
+This portfolio was created with the use of TechFolio, a template that I altered for the website.
 
 
